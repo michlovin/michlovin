@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michlovin
 - 👀 I’m interested in ...FOOD,Nature,pottery,science and camping 
-- 🌱 I’m currently learning ... Javascript and html
+- 🌱 I’m currently learning ... MERN Stack
 - 📫 you can reach me on LinkedIn
 
 <!---

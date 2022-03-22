@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @michlovin
+- 👋 Hi, I’m Michelle or @michlovin on GitHub
+-  🌱 I’m currently learning MERN Stack
+- 💻 Interested in learning python. & angular too!
 - 👀 I’m interested in ...FOOD,Nature,pottery,science and camping 
-- 🌱 I’m currently learning MERN Stack
-- 💻 Intrested in learning python too!
 - 📫 you can reach me on LinkedIn
 
 <!---

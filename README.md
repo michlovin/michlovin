@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle or @michlovin on GitHub
--  🌱 I’m currently learning MERN Stack
-- 💻 Interested in learning python & angular too!
+-  🌱 I’m currently learning Angular.
+- 💻 Interested in learning Front End Dev!
 - 👀 I’m interested in ...FOOD,Nature,pottery,science and camping 
 - 📫 you can reach me on LinkedIn => www.linkedin.com/in/michellebjorndalen
 

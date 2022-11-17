@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michelle or @michlovin on GitHub
--  🌱 I’m currently learning Angular.
+-  🌱 I’m currently learning Angular, REACT, Python and JS
 - 💻 Interested in learning Front End Dev!
 - 👀 I’m interested in ...FOOD,Nature,pottery,science and camping 
 - 📫 you can reach me on LinkedIn => www.linkedin.com/in/michellebjorndalen
